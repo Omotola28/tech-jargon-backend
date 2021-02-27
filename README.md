@@ -1,6 +1,4 @@
-# README.md
-
-Two Important files here 
+# Two Important files here 
 
 functions/index.js and scripts/uploadData.js
 
