@@ -1,0 +1,285 @@
+[
+    {
+      "id" : 1,
+      "term": "Classes & Objects",
+      "definition": "A class holds a recipe for building an object. An object created from a class. One can access properties of a class via an object", 
+      "category": "programmingconcepts"
+    },
+    {
+      "id" : 2,
+      "term": "Object Oriented Programming",
+      "definition": "OOP (Object-Oriented Programming) is a concept that bases software design on Data or Objects. Classes and Objects are its building blocks",
+      "category": "programmingconcepts"
+    },
+    {
+      "id" : 3,
+      "term": "Inheritance and Composition",
+      "definition": "Inheritance and Composition are key concepts in OOP. Inheritance preaches reusable code by allowing children objects to inherit functionality from parent objects. However, composition is advised to use because it encourages both reusability and less dependability between objects.",
+      "category": "programmingconcepts"
+    },
+    {
+      "id" : 4,
+      "term": "Libraries/Modules/Package",
+      "definition": "These are all the same, they hold reusable pieces of code that add to the functionality of a software program/application.",
+      "category": "programmingconcepts"
+    },
+    {
+      "id": 1,
+      "term": "Stand Ups",
+      "definition": "These are progress report meetings that are aimed to be short and concise. Each person on the team is to report what they were up to the previous day? If they had any blockers? And what they would be up to in the present day",
+      "category": "programminglingo"
+    },
+    {
+      "id": 2,
+      "term": "Sprints",
+      "definition": "Backlogs - A list of task that needs to be done for a software requirement. Sprints is a defined amount of time that a software team is working on a set of requirements.",
+      "category": "programminglingo"
+    },
+    {
+      "id": 3,
+      "term": "Code Refactoring",
+      "definition": "Changing software logic so that the code is reusable, follows best practice, efficient, testable and maintainable.",
+      "category": "programminglingo"
+    },
+    {
+      "id": 4,
+      "term": "Backlogs",
+      "definition": "Backlogs - A list of task that needs to be done for a software requirement. Sprints is a defined amount of time that a software team is working on a set of requirements.",
+      "category": "programminglingo"
+    },
+    {
+      "id": 5,
+      "term": "Debugging",
+      "definition": "Bounty hunting for annoying bugs in your codebase. Price? Working code!",
+      "category": "programminglingo"
+    },
+    {
+      "id": 5,
+      "term": "Data Types",
+      "definition": "Data is stored in different types in programming to differentiate information. Types of data can be stores as strings, integers, arrays, objects etc.",
+      "category": "programminglingo"
+    },
+    {
+      "id": 1,
+      "term": "Software Engineer",
+      "definition": "A software engineer is a  person that specializes in building software applications and programs.",
+      "category": "techroles"
+    },
+    {
+      "id": 2,
+      "term": "Frontend Engineer",
+      "definition": "A Frontend Developer:  Deals with the presentation layer, that is what the end user sees. They normally work with the data pased from the backend that influences how the front part of the application will look.",
+      "category": "techroles"
+    },
+    {
+      "id": 3,
+      "term": "Backend Engineer",
+      "definition": "A Backend Developer: Works with writing code that deals  with the functionality of the program i.e. The business logic, scripts for automation, Building APIS etc.",
+      "category": "techroles"
+    },
+    {
+      "id": 4,
+      "term": "UI/UX Designer",
+      "definition": "A UI/UX Designer deals with how the presentation layer should look, and what ways it can be designed to improve usability",
+      "category": "techroles"
+    },
+    {
+      "id": 5,
+      "term": "Devops Engineer",
+      "definition": "This person deals with maintaining high quality of processes, from developing the software  to when it is released. They deal with coding processes, maintenance, updates and software shipments ",
+      "category": "techroles"
+    },
+    {
+      "id": 1,
+      "term": "IDEs",
+      "definition": "These are software applications normally on desktops that allow programmers to write code. Most popular is VSCode because it supports a lot of languages and has great extensions.", 
+      "category": "toolsandservices"
+    },
+    {
+      "id": 2,
+      "term": "API",
+      "definition": "This is a software services that is built to provide an interface that allows two programs to talk to each other. Most of the interactions surround CRUD actions. i.e CREATE, READ, UPDATE and DELETE.",
+      "category": "toolsandservices"
+    },
+    {
+      "id": 3,
+      "term": "CDN",
+      "definition": "A content delivery network (CDN) refers to a geographically distributed group of servers that work together to provide fast delivery of Internet content. (CloudFare) e.g FontAwesome, Bootstrap,  Contentful etc.",
+      "category": "toolsandservices"
+    },
+    {
+      "id": 4,
+      "term": "Package Manager",
+      "definition": "A package manager is a system or set of tools used to automate installing, upgrading, configuring and using software (Microsoft). E.g npm, yarn, composer etc.",
+      "category": "toolsandservices"
+    },
+    {
+      "id": 1,
+      "term": "Git Repository",
+      "definition": "Git is a tool that allows people to back up, collaborate on and track changes of their project. A repository (Repo) on the web version of the tool (GitHub) is like a folder on the cloud that host all your code.",
+      "category" : "versioncontrol"
+    },
+    {
+      "id": 2,
+      "term": "Pull Request",
+      "definition": "A pull request is what is raised to a repository on GitHub when a developer is requesting for their code contribution to be reviewed and added to the rest of the project.",
+      "category" : "versioncontrol"
+    },
+    {
+      "id": 3,
+      "term": "Branch",
+      "definition": "This is a virtual workspace that is created to prevent conflicts between yours and teammate's work when working on the same project.",
+      "category" : "versioncontrol"
+    },
+    {
+      "id": 4,
+      "term": "Merge",
+      "definition": "This is the brave task of mending two different versions of the same project together. Merges are mostly done from your branch into a master branch",
+      "category" : "versioncontrol"
+    },
+    {
+      "id": 1,
+      "term": "Cookies",
+      "definition": "Cookies are files created by websites you visit. They make your online experience easier by saving YOUR browsing information.", 
+      "category": "webrelated"
+    },
+    {
+      "id": 2,
+      "term": "Cache",
+      "definition": "Cache is used to store online page resources in a browser for the long run. The purpose is to decrease the loading time of frequent visits to the same website.",
+      "category": "webrelated"
+    },
+    {
+      "id": 3,
+      "term": "PWA",
+      "definition": "A progressive web app is a web application that is built for the web but is also installable on desktop and mobile applications.",
+      "category": "webrelated"
+    },
+    {
+      "id": 4,
+      "term": "AWS",
+      "definition": "Amazon Web Services is a service that helps web developers and ecommerce owners in developing certain shopping-related features of their websites.",
+      "category": "cloudrelated"
+    },
+    {
+      "id": 5,
+      "term": "Blockchain",
+      "definition": "In simple terms, blockchain is a ledger system that uses an open, distributed record to keep track of transactions — transactions could mean cryptocurrencies, medical information, voting or home records, and more.",
+      "category": "crytocurrency"
+    },
+    {
+      "id": 6,
+      "term": "CDN",
+      "definition": "Content delivery network content distribution network A system of servers on the internet that provides content rapidly to multiple users by duplicating the content on multiple servers and directing the content to users based on proximity. CDNs enable better performance and availability -- plus, they offload traffic served directly from the content provider's website. They're especially good for streaming audio, video, and internet television programming.",
+      "category": "webrelated"
+    },
+    {
+      "id": 7,
+      "term": "CDN",
+      "definition": "Content delivery network content distribution network A system of servers on the internet that provides content rapidly to multiple users by duplicating the content on multiple servers and directing the content to users based on proximity. CDNs enable better performance and availability -- plus, they offload traffic served directly from the content provider's website. They're especially good for streaming audio, video, and internet television programming.",
+      "category": "webrelated"
+    },
+    {
+      "id": 9,
+      "term": "CMS",
+      "definition": "A CMS, or content management system, is a platform that allows less-techy people to build websites and content from professionally designed templates. More tech-savvy users can often further customize these templates or website themes with HTML edits or plug-ins, which you'll learn more about on this list. Notable examples of CMSs include WordPress and WIx.",
+      "category": "webrelated"
+    },
+    {
+      "id": 10,
+      "term": "CSS",
+      "definition": "'Cascading style sheets' A language that manages the design and presentation of web pages: color, look, feel, and so on. It works together with HTML (see HTML), which handles the content of web pages. 'HTML is the skeleton of your web pages, while CSS is the clothing,'",
+      "category": "programminglanguage"
+    },
+    {
+      "id": 11,
+      "term": "DNS",
+      "definition": "'Domain name server.' Servers that translates web addresses into one or more IP addresses. This is why you can enter HubSpot.com instead of having to remember our IP address.",
+      "category": "network"
+    },
+    {
+      "id": 12,
+      "term": "HTML",
+      "definition": "'Hyper-text markup language.' The language used to direct the architecture of your website, landing pages, and emails. HTML lays out the structure of your website, from the title and first header, to a bulleted list, to your footer. Remember, 'HTML is the skeleton of your web pages, while CSS is the clothing.'.",
+      "category": "programminglangauge"
+    },
+    {
+      "id": 13,
+      "term": "GUI",
+      "definition": "GUI stands for 'graphical user interface,' known also as simply 'interface.' An interface is the part of a piece of software that the end user actually sees and interacts with.",
+      "category": "toolsandservices"
+    },
+    {
+      "id": 14,
+      "term": "IP Address",
+      "definition": "'Internet Protocol address.' A numerical label assigned to each device participating in a computer network that uses the Internet Protocol for communication.",
+      "category": "webrelated"
+    },
+    {
+      "id": 15,
+      "term": "IPaas",
+      "definition": "IPaaS, which stands for Integrated Platform as a Service, is a cloud-based platform that connects various applications, systems, and technologies within the cloud or on-premise. It allows for the deployment and maintenance of integration flows without the need for hardware or middleware either within an organization or between an organization and third-party software.",
+      "category": "toolsandservices"
+    },
+    {
+      "id": 16,
+      "term": "ISP",
+      "definition": "'Internet service provider.' An organization (commercial, community-owned, nonprofit, or otherwise privately owned) that provides internet services.",
+      "category": "network"
+    }, 
+    {
+      "id": 17,
+      "term": "JavaScript",
+      "definition": "A computer programming language used to create interactive effects within web browsers. For example, it allows you to perform calculations, write interactive games, add special effects, check forms, create security passwords, customize graphics, and so on. It has become the standard equipment in virtually all web browsers and is well-suited to a large range of non-web-related applications.",
+      "category": "programminglangauge"
+    },
+    {
+      "id": 18,
+      "term": "Manchine Learning",
+      "definition": "Machine Learning is an artificial intelligence technique where algorithms are trained to recognize patterns and respond to them by performing tasks. For example, a customer service bot for a travel site might be trained to send you deals related to Bermuda if it recognizes the words, 'beach vacation' or 'Bermuda.'",
+      "category": "datascience"
+    },
+    {
+      "id": 19,
+      "term": "NLP",
+      "definition": "NLP, or natural language processing, is when machine-learning algorithms are trained to comprehend large amounts of human language and respond to those commands. You might hear about this machine learning technique most when you are reading about voice assistant products that can respond to multiple spoken commands at once, like Amazon's Echo. ",
+      "category": "datascience"
+    },
+    {
+      "id": 20,
+      "term": "Plugin/Plug-In",
+      "definition": "A software extension that adds a specific feature to an existing software application. You've probably heard of plugins in the context of web browsers to add new features like virus scanners, for example. Ever enabled Adobe Flash Player or Microsoft Silverlight QuickTime Player on your internet browser? Yup -- those are plugins.",
+      "category": "toolsandservices"
+    },
+    {
+      "id": 21,
+      "term": "Responsive Design",
+      "definition": "The method of designing web pages that automatically appear in their optimized form on all devices. In other words, responsive design automatically reformats your website for all screen sizes so your website visitors can easily interact with your site no matter what device they're using. Due to the rapid increase in mobile usage in recent years, responsive design has become somewhat of a necessity.",
+      "category": "webrelated"
+    },
+    {
+      "id": 22,
+      "term": "Scrum",
+      "definition": "A framework for managing product development used in agile software development. In Scrum, projects are divided into succinct work cadences known as 'sprints,' which are usually one, two, or three weeks long. At the end of each sprint, the team meets to assess their progress and plan the next sprint. One key to Scrum's popularity and success is that it has a simple set of roles, responsibilities, and meetings that never change",
+      "category": "programminglingo"
+    },
+    {
+      "id": 23,
+      "term": "Session",
+      "definition": "In computer science, a session is a dialogue, conversation, or meeting between two or more communicating devices, or between a computer and a user (like a login session). It typically involves saving information about the session history in order to be able to communicate. ",
+      "category": "webrelated"
+    }, 
+    {
+      "id": 24,
+      "term": "URL",
+      "definition": "'Uniform resource locator.' Also known as a web address, a URL is a specific character string that refers to a resource. It's displayed on the top of a web browser inside an 'address' bar",
+      "category": "webrelated"
+    },
+    {
+      "id": 25,
+      "term": "Web Accessibility",
+      "definition": "The ability for your website to be accessed by people with different physical and mental abilities, age, location, and so on. The UN Convention on the Rights of Persons with Disabilities recognizes access to the web as a basic human right.",
+      "category": "webrelated"
+    }
+
+]
